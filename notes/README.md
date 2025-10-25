@@ -9,7 +9,9 @@ Repositório para validar o aprendizado do módulo Automação e DevOps na AWS.
 
 ## 🗂PROCESSO
 -`notes` → Anotações dos conceitos práticos.
+
 -`exemplos_codigos` → Exemplos de códigos.
+
 -`images` → Imagens e prints do processo.
 
 ## ✅APRENDIZADO
@@ -17,3 +19,4 @@ Repositório para validar o aprendizado do módulo Automação e DevOps na AWS.
 - Consolidar como o Lambda Functions funciona e suas respostas aos eventos.
 - Configuração e Integração de vários ambientes cooperando para o funcionamento automatizado.
 - Processamento de S3, DynamoDB e APIGateway.
+
