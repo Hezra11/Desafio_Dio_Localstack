@@ -9,7 +9,9 @@ Repositório para validar o aprendizado do módulo Automação e DevOps na AWS.
 
 ## 🗂PROCESSO
 -`notes` → Anotações dos conceitos práticos.
+
 -`exemplos_codigos` → Exemplos de códigos.
+
 -`images` → Imagens e prints do processo.
 
 ## ✅APRENDIZADO
